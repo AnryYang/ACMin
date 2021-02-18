@@ -1,3 +1,6 @@
+## Paper
+[Effective and Scalable Clustering on Massive Attributed Graphs](https://arxiv.org/pdf/2102.03826.pdf)
+
 ## Requirements
 - Linux
 - Python 2.7
@@ -24,6 +27,7 @@ $ python2.7 eval_aamc.py --data cora --cfile sc.cora.7.cluster.txt
 ```
 
 ## Citation
+```
 @article{yang2021effective,
   title={Effective and Scalable Clustering on Massive Attributed Graphs},
   author={Yang, Renchi and Shi, Jieming and Yang, Yin and Huang, Keke and Zhang, Shiqi and Xiao, Xiaokui},
