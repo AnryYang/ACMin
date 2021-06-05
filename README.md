@@ -33,6 +33,7 @@ $ python2.7 eval_aamc.py --data cora --cfile sc.cora.7.cluster.txt
   author={Yang, Renchi and Shi, Jieming and Yang, Yin and Huang, Keke and Zhang, Shiqi and Xiao, Xiaokui},
   booktitle = {Proceedings of The Web Conference 2021},
   year={2021},
+  pages={3675--3687},
   publisher={Association for Computing Machinery}
 }
 ```
