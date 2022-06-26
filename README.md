@@ -3,7 +3,7 @@
 
 ## Requirements
 - Linux
-- Python 2.7 (Please ensure you are using Python 2.7, otherwise the results might be incorrect)
+- Python 2.7 (Please ensure you are using Python 2.7, otherwise the result might be incorrect)
 - pip install munkres==1.0.12
 
 
